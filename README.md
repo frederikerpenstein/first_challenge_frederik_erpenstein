@@ -103,3 +103,16 @@ Before you can start with plotly in Jupyter Lab you have to install node.js (if 
    ```Bash
    python.exe -m pip install --upgrade pip
    ```
+
+   ### **Repository Structure**
+
+- 1_Fetching_the_data_eda.ipynb: Notebook for fetching and exploring the initial dataset.
+- EDA.ipynb: Notebook for exploratory data analysis.
+- data/: Directory containing datasets.
+- optional/: Additional optional files or resources.
+- column_names.md: Documentation for column names and their descriptions.
+- assignment.md: Details and requirements of the assignment.
+- workflow.md: Explanation of the project's workflow.
+- presentation_challenge_pdf.pdf: PDF document for the presentation challenge.
+- all_data_central.png: Visualization of data distribution for central areas.
+- requirements.txt: List of required Python packages.
